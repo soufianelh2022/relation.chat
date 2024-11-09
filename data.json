@@ -24,19 +24,19 @@
     },
     "moreApps": [
         {
-            "image": "https://picsum.photos/300/200?random=23",
-            "title": "Weather Pro",
-            "appLink": "https://play.google.com/store/apps/weather"
+            "image": "https://play.google.com/store/apps/details?id=com.os.airforce&pcampaignid=merch_published_cluster_promotion_battlestar_browse_all_games",
+            "title": "1945 US Air Force",
+            "appLink": "https://play-lh.googleusercontent.com/4YeGmiCn2ji3mTM4oCfurk6MfhlRiFV9deAo-JwYUEHRhDDN9BYXN4j1OqxxFyiCmHg=s48-rw"
         },
         {
-            "image": "https://picsum.photos/300/200?random=24",
-            "title": "Fitness Tracker",
-            "appLink": "https://play.google.com/store/apps/fitness"
+            "image": "https://play-lh.googleusercontent.com/7x4TWM86ezxXupWVUj8Ta93eqzJt6eYUWkmbTgdSx5IDCPBstDN-59C1ewyLGMoxNno=s48-rw",
+            "title": "Race Master 3D: Car Racing",
+            "appLink": "https://play.google.com/store/apps/details?id=com.easygames.race"
         },
         {
-            "image": "https://picsum.photos/300/200?random=25",
-            "title": "Recipe Book",
-            "appLink": "https://play.google.com/store/apps/recipe"
+            "image": "https://play-lh.googleusercontent.com/N0UxhBVUmx8s7y3F7Kqre2AcpXyPDKAp8nHjiPPoOONc_sfugHCYMjBpbUKCMlK_XUs=w240-h480-rw",
+            "title": "Hill Climb Racing",
+            "appLink": "https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb"
         }
     ],
     "categories": [
