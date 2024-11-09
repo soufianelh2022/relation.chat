@@ -18,7 +18,7 @@
         "appSize": "12mb",
         "appCover": "https://i.imgur.com/N0OjzuV.png",
         "appTitle": "V Manager",
-        "isActive": true,
+        "isActive": false,
         "appRating": "5.0",
         "appDescription": "V Manager is a tool where you can download and update YV. A tool intended to eliminate the tedious steps required to install YV."
     },
@@ -44,99 +44,99 @@
             "items": [
                 {
                     "size": "2.8 MB",
-                    "image": "https://picsum.photos/300/200?random=2",
-                    "title": "Adventure Quest",
+                    "image": "https://torrent5.net/uploads/posts/2017-04/1493150629_img2.jpg",
+                    "title": "Игру garrys mod",
                     "lastUpdated": "2024-03-15",
                     "isrecommended": true
                 },
                 {
                     "size": "1.5 MB",
-                    "image": "https://picsum.photos/300/200?random=3",
-                    "title": "Puzzle Master",
+                    "image": "https://steamuserimages-a.akamaihd.net/ugc/1765954561217183516/BE782F799BE2ECB83AD74F847B5F88C8D9580CD6/?imw=512&amp;imh=320&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true",
+                    "title": "Steam Workshop",
                     "lastUpdated": "2024-03-10",
                     "isrecommended": false
                 },
                 {
                     "size": "4.2 MB",
-                    "image": "https://picsum.photos/300/200?random=4",
-                    "title": "Racing Stars",
+                    "image": "https://all-mods.ru/wp-content/uploads/2016/03/garrys-mod-13-minecraft-swep-7.jpg",
+                    "title": "Garry's mod by sonic1993",
                     "lastUpdated": "2024-03-20",
                     "isrecommended": true
                 }
             ],
-            "categoryImage": "https://picsum.photos/300/200?random=1",
-            "categoryTitle": "Games"
+            "categoryImage": "https://files.vgtimes.ru/gallery/main/15698/4957976237_1676927450_7884.jpeg",
+            "categoryTitle": "Скриншоты Garry's Mod"
         },
         {
             "items": [
                 {
                     "size": "1.2 MB",
-                    "image": "https://picsum.photos/300/200?random=6",
-                    "title": "File Manager Pro",
+                    "image": "https://steamuserimages-a.akamaihd.net/ugc/2031732569392920651/75A8DABE087898DA9D70E81F8F0C1B74FB50BB59/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true",
+                    "title": "Komunita služby Steam ",
                     "lastUpdated": "2024-03-18",
                     "isrecommended": true
                 },
                 {
                     "size": "0.8 MB",
-                    "image": "https://picsum.photos/300/200?random=7",
-                    "title": "Battery Saver",
+                    "image": "https://steamuserimages-a.akamaihd.net/ugc/257092455854234965/BD9E6A957E5AF0976F8C46343DC3151394FB863B/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true",
+                    "title": "Speakerman garry s mod",
                     "lastUpdated": "2024-03-12",
                     "isrecommended": false
                 },
                 {
                     "size": "1.0 MB",
-                    "image": "https://picsum.photos/300/200?random=8",
-                    "title": "Calculator Plus",
+                    "image": "https://steamuserimages-a.akamaihd.net/ugc/1839152954739695642/037654A03E535B2A608F635A8DDF286005E0C8C3/?imw=512&amp;imh=320&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true",
+                    "title": "Oficina Steam::для сервака",
                     "lastUpdated": "2024-03-22",
                     "isrecommended": true
                 }
             ],
-            "categoryImage": "https://picsum.photos/300/200?random=5",
-            "categoryTitle": "Utilities"
+            "categoryImage": "https://steamuserimages-a.akamaihd.net/ugc/916918850617749728/69514ABB25F0E17464E43BC875C96EC832F68DC8/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true",
+            "categoryTitle": "Gman got his face whacked"
         },
         {
             "items": [
                 {
                     "size": "3.5 MB",
-                    "image": "https://picsum.photos/300/200?random=10",
-                    "title": "Music Player",
+                    "image": "https://steamuserimages-a.akamaihd.net/ugc/1661229385982723492/A53FBBE74542F9F3FB989187CB20BF8EB74546B1/?imw=512&amp;imh=384&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true",
+                    "title": "Пиратский garry s mod",
                     "lastUpdated": "2024-03-25",
                     "isrecommended": true
                 },
                 {
                     "size": "5.2 MB",
-                    "image": "https://picsum.photos/300/200?random=11",
-                    "title": "Video Editor",
+                    "image": "https://wallpapertag.com/wallpaper/full/e/5/4/498537-gorgerous-teletubbies-wallpaper-1920x1080-desktop.jpg",
+                    "title": "Gman trouble image",
                     "lastUpdated": "2024-03-19",
                     "isrecommended": false
                 },
                 {
                     "size": "2.1 MB",
-                    "image": "https://picsum.photos/300/200?random=12",
-                    "title": "Photo Gallery",
+                    "image": "https://all-mods.ru/wp-content/uploads/2015/10/526143002_preview_gm_construct0150.jpg",
+                    "title": "Сообщество Steam",
                     "lastUpdated": "2024-03-21",
                     "isrecommended": true
                 }
             ],
-            "categoryImage": "https://picsum.photos/300/200?random=9",
-            "categoryTitle": "Entertainment"
+            "categoryImage": "https://steamuserimages-a.akamaihd.net/ugc/156904390482266532/FFBE610D46E138EFA499CE07136BF90744F0202E/?imw=512&amp;imh=289&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true",
+            "categoryTitle": "Comunidade Steam"
         }
     ],
     "youtubeVideos": [
         {
-            "image": "https://picsum.photos/300/200?random=13",
-            "title": "Getting Started Tutorial",
-            "videoLink": "https://youtube.com/watch?v=abc123"
+            "image": "https://steamuserimages-a.akamaihd.net/ugc/1625226443565979231/2A758ACC017E9F31DF7F29B75EBC98A3582A1673/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true",
+            "title": "Картинки GARRY S MOD",
+            "videoLink": "https://www.youtube.com/watch?v=FGKRE7vf1xs"
         },
         {
-            "image": "https://picsum.photos/300/200?random=14",
-            "title": "Advanced Features Guide",
-            "videoLink": "https://youtube.com/watch?v=def456"
+            "image": "https://steamuserimages-a.akamaihd.net/ugc/1693903402544225919/2C8C83C886B9BC9D619D812C2D530A2E9D024FCE/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true",
+            "title": "Онлайн игры для слабых",
+            "videoLink": "https://www.youtube.com/watch?v=LoZXQPyWNh8"
         },
         {
-            "image": "https://picsum.photos/300/200?random=15",
-            "title": "Tips and Tricks",
-            "videoLink": "https://youtube.com/watch?v=ghi789"
+            "image": "https://steamuserimages-a.akamaihd.net/ugc/2535045516578903530/0FB19DECB35C0F15324854DCC8198EEE066ACF95/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true",
+            "title": "Tips and Мастерская Steam::Best tools",
+            "videoLink": "https://www.youtube.com/watch?v=SK6Cqjc-eSI"
         }
     ],
     "sharedStrings": {
@@ -187,8 +187,8 @@
         "drawer_privacy": "Privacy Policy",
         "favorites_text": "Favorites",
         "pack_skin_list": "Pack Skin List",
-        "save_to_ml_btn": "SAVE TO ML",
-        "save_to_ml_msg": "Use the SAVE TO ML button to start the installation process. Please skip this step if you have already installed it",
+        "save_to_ml_btn": "SAVE TO  Garry's Mod ",
+        "save_to_ml_msg": "Use the SAVE TO Mods For Garry's Mod  button to start the installation process. Please skip this step if you have already installed it",
         "categories_text": "Categories",
         "delete_skin_sub": "Are you sure you want to delete this skin?",
         "dont_show_again": "Don't show this app again",
