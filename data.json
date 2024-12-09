@@ -1,14 +1,14 @@
 {
     "ads": {
-        "adNetwork": "yandex",
+        "adNetwork": "applovin",
         "yandex_interstitial": "demo-interstitial-yandex",
         "yandex_rewarded": "demo-rewarded-yandex",
         "yandex_banner": "demo-banner-yandex",
         "yandex_native": "demo-native-app-yandex",
-        "applovin_banner": "ff12bd8a55ff06bf",
-        "applovin_native": "3ad3bbd1e3c1e075",
-        "applovin_rewarded": "7ac3f6ee667a6264",
-        "applovin_interstitial": "98f6a586ed642919"
+        "applovin_banner": "d0f7ad22a68365e8",
+        "applovin_native": "3bd9c2aaa8e846aa",
+        "applovin_rewarded": "179c912eae132912",
+        "applovin_interstitial": "fc36976135a2be02"
     },
     "flag": "https://flagsapi.com/US/flat/64.png",
     "language": "English",
