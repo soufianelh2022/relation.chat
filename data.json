@@ -1,6 +1,6 @@
 {
     "ads": {
-        "adNetwork": "yandex",
+        "adNetwork": "applovin",
         "yandex_interstitial": "demo-interstitial-yandex",
         "yandex_rewarded": "demo-rewarded-yandex",
         "yandex_banner": "demo-banner-yandex",
