@@ -1,7 +1,7 @@
 {
     "ads": {
         "adNetwork": "applovin",
-        "applovinopen":"9f9e60545e946f33",
+        "applovinopen":"0c43538eaed14071",
         "yandex_interstitial": "R-M-13714145-3",
         "yandex_rewarded": "R-M-13714145-4",
         "yandex_banner": "R-M-13714145-1",
