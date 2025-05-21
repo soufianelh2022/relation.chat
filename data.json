@@ -14,11 +14,11 @@
     "language": "English",
     "featuredApp": {
         "appIcon": "https://play-lh.googleusercontent.com/IaGko_0lPB8gPDkgTdB1CvTMqvkhVE2EVxt339fleluTt8eN7hF52MOWdREmGlT94w=w240-h480-rw",
-        "appLink": "https://play.google.com/store/apps/details?id=com.ecapoi.chrismaswalla",
+        "appLink": "https://play.google.com/store/apps/details?id=relation.chat",
         "appSize": "12mb",
         "appCover": "https://i.ytimg.com/vi/2W0-EJMYtbU/maxresdefault.jpg",
         "appTitle": "Garry's mod mobile Version 2025",
-        "isActive": false,
+        "isActive": true,
         "appRating": "5.0",
         "appDescription": "Garry's Mod Mobile Official Version "
     },
