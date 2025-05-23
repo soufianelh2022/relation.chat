@@ -1,11 +1,11 @@
 {
     "ads": {
-        "adNetwork": "yandex",
+        "adNetwork": "applovin",
         "yandex_interstitial": "",
         "yandex_rewarded": "R-M-13714145-4",
-        "yandex_banner": "",
+        "yandex_banner": "R-M-13714145-1",
         "yandex_native": "",
-        "applovin_banner": "",
+        "applovin_banner": "d0f7ad22a68365e8",
         "applovin_native": "3bd9c2aaa8e846aa",
         "applovin_rewarded": "179c912eae132912",
         "applovin_interstitial": "fc36976135a2be02"
@@ -18,7 +18,7 @@
         "appSize": "12mb",
         "appCover": "https://i.ytimg.com/vi/2W0-EJMYtbU/maxresdefault.jpg",
         "appTitle": "Garry's mod mobile Version 2025",
-        "isActive": false,
+        "isActive": true,
         "appRating": "5.0",
         "appDescription": "Garry's Mod Mobile Official Version "
     },
